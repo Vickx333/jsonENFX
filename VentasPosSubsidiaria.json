@@ -1,0 +1,66 @@
+[
+    
+    {"userName": "",
+    "password": ""
+     },
+     {
+        
+"Token":" eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9..8IP7Xd5qU5IAFDwlbBzgU_ZbwlBiUYc91lZ8U8WOxY",
+"FechaInicio" : "2021-01-01 00:00:00", 
+"FechaFin":"2021-01-01 23:59:59", 
+"establecimientoID" : "109052"  
+
+     },
+     {
+        "id": "1",
+        "turno": "1",
+        "Fecha": "2021-01-01",
+        "HoraInicio": "08:00:00",
+        "NotaId": "1",
+        "Producto": "prducto",
+        "Volumne":"precio",
+        "Precio":"234",
+        "Subtotal":"234",
+        "Iva":"234",
+        "Ieps":"234",
+        "Importe":"234",
+        "pago":"234",
+        "TipoPago":"tipo pago",
+        "Tipo liquidacion":"tipo liquidacion",
+        "TipoCuenta":"tipo cuenta",
+        "Cliente":"cliente",
+        "Moviemiento":"movimiento",
+        "CodigoFac":"codigo fac",
+        "Bomba":"bomba",
+        "Manguera":"manguera",
+        "Color":"color",
+        "PagoID":"jornada",
+        "Jordana":"jornada"
+     },
+     {
+        "id": "1",
+        "turno": "1",
+        "Fecha": "2021-01-01",
+        "HoraInicio": "08:00:00",
+        "NotaId": "1",
+        "Producto": "prducto",
+        "Volumne":"precio",
+        "Precio":"234",
+        "Subtotal":"234",
+        "Iva":"234",
+        "Ieps":"234",
+        "Importe":"234",
+        "pago":"234",
+        "TipoPago":"tipo pago",
+        "Tipo liquidacion":"tipo liquidacion",
+        "TipoCuenta":"tipo cuenta",
+        "Cliente":"cliente",
+        "Moviemiento":"movimiento",
+        "CodigoFac":"codigo fac",
+        "Bomba":"bomba",
+        "Manguera":"manguera",
+        "Color":"color",
+        "PagoID":"jornada",
+        "Jordana":"jornada"  
+     }
+]
